@@ -36,7 +36,7 @@
   <img class="card-img-top" src="https://studyportals-cdn2.imgix.net/555efdd9ee48c.jpg" height="160" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Sınava Başla</h5>
-    <p class="card-text">asdasdasdasdasdasdasdasdasdasdasdasd</p>
+    <p class="card-text">Yeni bir sınav başlat.</p>
     <form action='<s:url value="/sinav/1"></s:url>' method="post">
   <input type="submit" value="Sınav Ol" class="btn btn-success">
 </form>
@@ -51,8 +51,8 @@
   <img class="card-img-top" src="https://www.thechairmansbao.com/wp-content/uploads/2018/01/How-to-Study-for-an-Exam.jpg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Soru Ekle</h5>
-    <p class="card-text">asdasdasdasdasdasdasdasdasdasdasdasd</p>
-    <a href='<s:url value="soruekle"></s:url>'><button type="button" class="btn btn-primary">Soru Ekle</button></a>
+    <p class="card-text">Sınava yeni soru ekle.</p>
+    <a href='<s:url value="soruekle"></s:url>'><button type="button" class="btn btn-primary">Soru Ekle</button></a><br/><br/>
   </div>
 </div>
 </div>
